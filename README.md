@@ -1,2 +1,10 @@
-# _TEMPLATE_dev_sandbox.ajc
-Technology-agnostic sandbox environment for developing implementations of programming solutions.
+# dev_sandbox.ts
+
+A dedicated TypeScript sandbox for experimentation and learning.
+
+## Getting Started
+
+### Install Dependencies
+
+```bash
+npm install
