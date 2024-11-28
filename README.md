@@ -12,7 +12,7 @@ This repo is intended to act as technology-agnostic sandbox environment for deve
 
 [Typescript Technology Outline](typescript-outline.md)
 
-## Starting the Sandbox
+## Running the Sandbox
 
  Run npm install to install the necessary dependencies.
  
