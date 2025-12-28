@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repo is intended to act as technology-agnostic sandbox environment for developing implementations of programming solutions built primarily in TypeScript, independent of other technologies.
+This repo is intended to act as technology-agnostic sandbox environment for developing implementations of programming solutions built primarily in TypeScript, independent of other technologies. x
 
 ## Table of Contents
 
